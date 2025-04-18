@@ -39,7 +39,7 @@ Just download it, and import it and you should be good to go!
     > Sequence:
       >> Calls one function at a time with the given amount of time
       >> Is a SetFunction
->
+>      > 
     > Timer:
       >> Calls any amount of functions at a time with the given amount of time
       >> Is a SetFunction
